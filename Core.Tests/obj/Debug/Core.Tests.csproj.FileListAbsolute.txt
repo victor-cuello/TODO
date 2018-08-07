@@ -1,0 +1,96 @@
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Core.Tests.dll.config
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Core.Tests.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Core.Tests.pdb
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Data.Common.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.IO.Compression.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Castle.Core.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Core.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\NSubstitute.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Core.pdb
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\Castle.Core.xml
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dany.salas\Documents\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dany.salas\Documents\Todo\Core.Tests\obj\Debug\Core.Tests.csprojAssemblyReference.cache
+C:\Users\dany.salas\Documents\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dany.salas\Documents\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CopyComplete
+C:\Users\dany.salas\Documents\Todo\Core.Tests\obj\Debug\Core.Tests.dll
+C:\Users\dany.salas\Documents\Todo\Core.Tests\obj\Debug\Core.Tests.pdb
+C:\Todo\Core.Tests\bin\Debug\Core.Tests.dll.config
+C:\Todo\Core.Tests\bin\Debug\Core.Tests.dll
+C:\Todo\Core.Tests\bin\Debug\Core.Tests.pdb
+C:\Todo\Core.Tests\bin\Debug\System.Data.Common.dll
+C:\Todo\Core.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Todo\Core.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Todo\Core.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Todo\Core.Tests\bin\Debug\System.IO.Compression.dll
+C:\Todo\Core.Tests\bin\Debug\System.Net.Http.dll
+C:\Todo\Core.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Todo\Core.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Todo\Core.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Todo\Core.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Todo\Core.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Todo\Core.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Todo\Core.Tests\bin\Debug\Castle.Core.dll
+C:\Todo\Core.Tests\bin\Debug\Core.dll
+C:\Todo\Core.Tests\bin\Debug\NSubstitute.dll
+C:\Todo\Core.Tests\bin\Debug\nunit.framework.dll
+C:\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Todo\Core.Tests\bin\Debug\Core.pdb
+C:\Todo\Core.Tests\bin\Debug\Castle.Core.xml
+C:\Todo\Core.Tests\bin\Debug\nunit.framework.pdb
+C:\Todo\Core.Tests\bin\Debug\nunit.framework.xml
+C:\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Todo\Core.Tests\obj\Debug\Core.Tests.csprojAssemblyReference.cache
+C:\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CoreCompileInputs.cache
+C:\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CopyComplete
+C:\Todo\Core.Tests\obj\Debug\Core.Tests.dll
+C:\Todo\Core.Tests\obj\Debug\Core.Tests.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Core.Tests.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Core.Tests.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Core.Tests.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Data.Common.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.IO.Compression.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\obj\Debug\Core.Tests.csprojAssemblyReference.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\obj\Debug\Core.Tests.csproj.CopyComplete
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\obj\Debug\Core.Tests.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core.Tests\obj\Debug\Core.Tests.pdb

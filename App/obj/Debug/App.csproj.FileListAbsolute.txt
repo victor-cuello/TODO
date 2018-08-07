@@ -1,0 +1,621 @@
+E:\sources\DotNet\DummyFormsWebApp\App\bin\ApplicationInsights.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\App.dll.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\App.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\App.pdb
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csc.exe
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csc.exe.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csc.rsp
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csi.exe
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csi.exe.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\csi.rsp
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.AppContext.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Collections.Immutable.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Console.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Diagnostics.Process.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.IO.Compression.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.IO.FileSystem.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.IO.Pipes.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Reflection.Metadata.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.AccessControl.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Claims.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Security.Principal.Windows.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Threading.Thread.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.ValueTuple.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Xml.XmlDocument.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Xml.XPath.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\vbc.exe
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\vbc.exe.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\vbc.rsp
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\VBCSCompiler.exe
+E:\sources\DotNet\DummyFormsWebApp\App\bin\roslyn\VBCSCompiler.exe.config
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Antlr3.Runtime.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\AspNet.ScriptManager.bootstrap.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\AspNet.ScriptManager.jQuery.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.Agent.Intercept.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.DependencyCollector.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.Web.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.WindowsServer.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.ApplicationInsights.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.ScriptManager.WebForms.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.Web.Infrastructure.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Newtonsoft.Json.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\System.Diagnostics.DiagnosticSource.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\System.Web.Optimization.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\WebGrease.dll
+E:\sources\DotNet\DummyFormsWebApp\App\bin\System.Web.Optimization.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Newtonsoft.Json.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Antlr3.Runtime.pdb
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\System.Diagnostics.DiagnosticSource.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.DependencyCollector.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.WindowsServer.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.AI.Web.xml
+E:\sources\DotNet\DummyFormsWebApp\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sources\DotNet\DummyFormsWebApp\App\obj\Debug\App.csprojAssemblyReference.cache
+E:\sources\DotNet\DummyFormsWebApp\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\sources\DotNet\DummyFormsWebApp\App\obj\Debug\App.csproj.CopyComplete
+E:\sources\DotNet\DummyFormsWebApp\App\obj\Debug\App.dll
+E:\sources\DotNet\DummyFormsWebApp\App\obj\Debug\App.pdb
+C:\Users\dany.salas\Documents\Todo\App\bin\ApplicationInsights.config
+C:\Users\dany.salas\Documents\Todo\App\bin\App.dll.config
+C:\Users\dany.salas\Documents\Todo\App\bin\App.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\App.pdb
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csc.exe
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csc.exe.config
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csc.rsp
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csi.exe
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csi.exe.config
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\csi.rsp
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.AppContext.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Console.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.IO.Compression.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Claims.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Threading.Thread.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.ValueTuple.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\vbc.exe
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\vbc.exe.config
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\vbc.rsp
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\VBCSCompiler.exe
+C:\Users\dany.salas\Documents\Todo\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dany.salas\Documents\Todo\App\bin\Antlr3.Runtime.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.Web.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\Newtonsoft.Json.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\System.Web.Optimization.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\WebGrease.dll
+C:\Users\dany.salas\Documents\Todo\App\bin\System.Web.Optimization.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Newtonsoft.Json.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Antlr3.Runtime.pdb
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.AI.Web.xml
+C:\Users\dany.salas\Documents\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dany.salas\Documents\Todo\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\dany.salas\Documents\Todo\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\dany.salas\Documents\Todo\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\dany.salas\Documents\Todo\App\obj\Debug\App.dll
+C:\Users\dany.salas\Documents\Todo\App\obj\Debug\App.pdb
+C:\Todo\App\bin\ApplicationInsights.config
+C:\Todo\App\bin\App.dll.config
+C:\Todo\App\bin\App.dll
+C:\Todo\App\bin\App.pdb
+C:\Todo\App\bin\roslyn\csc.exe
+C:\Todo\App\bin\roslyn\csc.exe.config
+C:\Todo\App\bin\roslyn\csc.rsp
+C:\Todo\App\bin\roslyn\csi.exe
+C:\Todo\App\bin\roslyn\csi.exe.config
+C:\Todo\App\bin\roslyn\csi.rsp
+C:\Todo\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Todo\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Todo\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Todo\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Todo\App\bin\roslyn\System.AppContext.dll
+C:\Todo\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Todo\App\bin\roslyn\System.Console.dll
+C:\Todo\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Todo\App\bin\roslyn\System.Diagnostics.Process.dll
+C:\Todo\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Todo\App\bin\roslyn\System.IO.Compression.dll
+C:\Todo\App\bin\roslyn\System.IO.FileSystem.dll
+C:\Todo\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Todo\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Todo\App\bin\roslyn\System.IO.Pipes.dll
+C:\Todo\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Todo\App\bin\roslyn\System.Security.AccessControl.dll
+C:\Todo\App\bin\roslyn\System.Security.Claims.dll
+C:\Todo\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Todo\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Todo\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Todo\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Todo\App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Todo\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Todo\App\bin\roslyn\System.Threading.Thread.dll
+C:\Todo\App\bin\roslyn\System.ValueTuple.dll
+C:\Todo\App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Todo\App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Todo\App\bin\roslyn\System.Xml.XPath.dll
+C:\Todo\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Todo\App\bin\roslyn\vbc.exe
+C:\Todo\App\bin\roslyn\vbc.exe.config
+C:\Todo\App\bin\roslyn\vbc.rsp
+C:\Todo\App\bin\roslyn\VBCSCompiler.exe
+C:\Todo\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Todo\App\bin\Antlr3.Runtime.dll
+C:\Todo\App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Todo\App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Todo\App\bin\EntityFramework.dll
+C:\Todo\App\bin\EntityFramework.SqlServer.dll
+C:\Todo\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Todo\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Todo\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Todo\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Todo\App\bin\Microsoft.AI.Web.dll
+C:\Todo\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Todo\App\bin\Microsoft.ApplicationInsights.dll
+C:\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Todo\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Todo\App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Todo\App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Todo\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Todo\App\bin\Newtonsoft.Json.dll
+C:\Todo\App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Todo\App\bin\System.Web.Optimization.dll
+C:\Todo\App\bin\WebGrease.dll
+C:\Todo\App\bin\EntityFramework.xml
+C:\Todo\App\bin\EntityFramework.SqlServer.xml
+C:\Todo\App\bin\System.Web.Optimization.xml
+C:\Todo\App\bin\Newtonsoft.Json.xml
+C:\Todo\App\bin\Antlr3.Runtime.pdb
+C:\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Todo\App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Todo\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Todo\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Todo\App\bin\Microsoft.AI.Web.xml
+C:\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Todo\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Todo\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Todo\App\obj\Debug\App.csproj.CopyComplete
+C:\Todo\App\obj\Debug\App.dll
+C:\Todo\App\obj\Debug\App.pdb
+C:\Todo\App\bin\Bondaries.Persistence.dll
+C:\Todo\App\bin\Core.dll
+C:\Todo\App\bin\Bondaries.Persistence.pdb
+C:\Todo\App\bin\Bondaries.Persistence.dll.config
+C:\Todo\App\bin\Core.pdb
+C:\Todo\App\bin\System.Web.Helpers.dll
+C:\Todo\App\bin\System.Web.Mvc.dll
+C:\Todo\App\bin\System.Web.Razor.dll
+C:\Todo\App\bin\System.Web.WebPages.Deployment.dll
+C:\Todo\App\bin\System.Web.WebPages.dll
+C:\Todo\App\bin\System.Web.WebPages.Razor.dll
+C:\Todo\App\bin\System.Web.Helpers.xml
+C:\Todo\App\bin\System.Web.Mvc.xml
+C:\Todo\App\bin\System.Web.Razor.xml
+C:\Todo\App\bin\System.Web.WebPages.xml
+C:\Todo\App\bin\System.Web.WebPages.Deployment.xml
+C:\Todo\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\ApplicationInsights.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\App.dll.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\App.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\App.pdb
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csc.exe
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csc.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csc.rsp
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csi.exe
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csi.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\csi.rsp
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.AppContext.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Console.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Threading.Thread.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\vbc.exe
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\vbc.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\vbc.rsp
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Antlr3.Runtime.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Bondaries.Persistence.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Core.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\EntityFramework.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\EntityFramework.SqlServer.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.Web.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Newtonsoft.Json.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Helpers.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Mvc.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Optimization.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Razor.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\WebGrease.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Bondaries.Persistence.pdb
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Bondaries.Persistence.dll.config
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Core.pdb
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\EntityFramework.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\EntityFramework.SqlServer.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Helpers.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Mvc.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Razor.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Web.Optimization.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Newtonsoft.Json.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Antlr3.Runtime.pdb
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.AI.Web.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcos.peguero\Desktop\Todo\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\marcos.peguero\Desktop\Todo\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\marcos.peguero\Desktop\Todo\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\marcos.peguero\Desktop\Todo\App\obj\Debug\App.dll
+C:\Users\marcos.peguero\Desktop\Todo\App\obj\Debug\App.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\ApplicationInsights.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\App.dll.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\App.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\App.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csc.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csc.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csc.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csi.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csi.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\csi.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.AppContext.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Console.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.IO.Compression.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Claims.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Threading.Thread.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.ValueTuple.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\vbc.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\vbc.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\vbc.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\VBCSCompiler.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Antlr3.Runtime.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Bondaries.Persistence.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Core.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\EntityFramework.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\EntityFramework.SqlServer.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.Web.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Newtonsoft.Json.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Helpers.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Mvc.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Optimization.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Razor.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\WebGrease.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Bondaries.Persistence.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Bondaries.Persistence.dll.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Core.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\EntityFramework.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\EntityFramework.SqlServer.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Helpers.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Mvc.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Razor.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Web.Optimization.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Newtonsoft.Json.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Antlr3.Runtime.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.AI.Web.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\obj\Debug\App.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\App\obj\Debug\App.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\ApplicationInsights.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\App.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\App.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\App.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csc.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csc.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csc.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csi.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csi.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\csi.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.AppContext.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Console.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\vbc.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\vbc.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\vbc.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Antlr3.Runtime.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Bondaries.Persistence.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\EntityFramework.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.Web.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Newtonsoft.Json.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Helpers.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Mvc.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Optimization.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\WebGrease.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Bondaries.Persistence.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Bondaries.Persistence.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\EntityFramework.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Helpers.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Mvc.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Optimization.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Newtonsoft.Json.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Antlr3.Runtime.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.AI.Web.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\obj\Debug\App.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\obj\Debug\App.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\MVCWebApp.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Http.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\MVCWebApp.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\MVCWebApp.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Http.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\App\bin\System.Net.Http.Formatting.xml

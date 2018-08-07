@@ -1,0 +1,80 @@
+C:\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csprojAssemblyReference.cache
+C:\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CoreCompileInputs.cache
+C:\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll.config
+C:\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll
+C:\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.pdb
+C:\Todo\Bondaries.Persistence\bin\Debug\Core.dll
+C:\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.dll
+C:\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Todo\Bondaries.Persistence\bin\Debug\Core.pdb
+C:\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.xml
+C:\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CopyComplete
+C:\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.dll
+C:\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.pdb
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll.config
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.pdb
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\Core.dll
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\Core.pdb
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csprojAssemblyReference.cache
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CopyComplete
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.dll
+C:\Users\marcos.peguero\Desktop\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\Core.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\Core.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csprojAssemblyReference.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CopyComplete
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Bondaries.Persistence.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csprojAssemblyReference.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.csproj.CopyComplete
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\obj\Debug\Bondaries.Persistence.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\ApplicationInsights.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\MVCWebApp.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Optimization.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Mvc.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Http.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\MVCWebApp.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\MVCWebApp.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Optimization.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Mvc.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Http.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Bondaries.Persistence\bin\Debug\System.Web.WebPages.Deployment.xml

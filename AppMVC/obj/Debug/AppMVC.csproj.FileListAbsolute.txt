@@ -1,0 +1,324 @@
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\ApplicationInsights.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\AppMVC.dll.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\AppMVC.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\AppMVC.pdb
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csc.exe
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csc.rsp
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csi.exe
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\csi.rsp
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\vbc.exe
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Bondaries.Persistence.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Core.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\EntityFramework.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Http.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Razor.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\WebGrease.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Bondaries.Persistence.pdb
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Bondaries.Persistence.dll.config
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Core.pdb
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\EntityFramework.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Razor.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Http.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\marcos.peguero\Desktop\Todo\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\obj\Debug\AppMVC.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\ApplicationInsights.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\AppMVC.dll.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\AppMVC.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\AppMVC.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csc.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csc.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csi.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\csi.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\vbc.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Bondaries.Persistence.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Core.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\EntityFramework.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Http.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Razor.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\WebGrease.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Bondaries.Persistence.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Bondaries.Persistence.dll.config
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Core.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\EntityFramework.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Razor.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Http.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\ApplicationInsights.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\AppMVC.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\AppMVC.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\AppMVC.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csc.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csc.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csi.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\csi.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\vbc.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Bondaries.Persistence.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\EntityFramework.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Http.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\WebGrease.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Bondaries.Persistence.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Bondaries.Persistence.dll.config
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\EntityFramework.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Http.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\obj\Debug\AppMVC.csprojAssemblyReference.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\obj\Debug\AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\obj\Debug\AppMVC.csproj.CopyComplete
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\obj\Debug\AppMVC.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\AppMVC\obj\Debug\AppMVC.pdb

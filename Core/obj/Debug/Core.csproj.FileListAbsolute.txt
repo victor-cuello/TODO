@@ -1,0 +1,29 @@
+C:\Users\dany.salas\Documents\Todo\Core\bin\Debug\Core.dll
+C:\Users\dany.salas\Documents\Todo\Core\bin\Debug\Core.pdb
+C:\Users\dany.salas\Documents\Todo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\dany.salas\Documents\Todo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\dany.salas\Documents\Todo\Core\obj\Debug\Core.dll
+C:\Users\dany.salas\Documents\Todo\Core\obj\Debug\Core.pdb
+C:\Todo\Core\bin\Debug\Core.dll
+C:\Todo\Core\bin\Debug\Core.pdb
+C:\Todo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Todo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Todo\Core\obj\Debug\Core.dll
+C:\Todo\Core\obj\Debug\Core.pdb
+C:\Users\marcos.peguero\Desktop\Todo\Core\bin\Debug\Core.dll
+C:\Users\marcos.peguero\Desktop\Todo\Core\bin\Debug\Core.pdb
+C:\Users\marcos.peguero\Desktop\Todo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\marcos.peguero\Desktop\Todo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\marcos.peguero\Desktop\Todo\Core\obj\Debug\Core.dll
+C:\Users\marcos.peguero\Desktop\Todo\Core\obj\Debug\Core.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\bin\Debug\Core.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\bin\Debug\Core.pdb
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\obj\Debug\Core.dll
+C:\Users\victor_cuello\Documents\Visual Studio 2017\Projects\Diplomado Web C#\Todo\Core\obj\Debug\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core\bin\Debug\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core\bin\Debug\Core.pdb
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core\obj\Debug\Core.dll
+C:\Users\Victor_Hamlet\Documents\Visual Studio 2017\Projects\Todo\Core\obj\Debug\Core.pdb

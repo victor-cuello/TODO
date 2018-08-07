@@ -1,0 +1,50 @@
+﻿@model MVCWebApp.Models.UserTasks.UserTasks
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>UserTasks</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Tittle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tittle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateCreation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateCreation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateDue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateDue)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TaskId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
