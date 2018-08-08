@@ -1,51 +1,58 @@
 ﻿@model IEnumerable<MVCWebApp.Models.UserTasks.UserTasks>
 
 @{
-    ViewBag.Title = "Index";
+    //ViewBag.Title = "Tareas";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Index</h2>
+<h2>Tareas</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Nueva Tarea", "Create", null, new { @class = "btn btn-md btn-primary" })
+    @*@Html.ActionLink("Crear Nueva Tarea", "Create")*@
 </p>
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Tittle)
+            <label>Nombre</label>
+            @*@Html.DisplayNameFor(model => model.Tittle)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.UserID)
+            <label>ID Usuario</label>
+            @*@Html.DisplayNameFor(model => model.UserID)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DateCreation)
+            <label>Fecha de creación</label>
+            @*@Html.DisplayNameFor(model => model.DateCreation)*@
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DateDue)
+            <label>Fecha de vencimiento</label>
+            @*@Html.DisplayNameFor(model => model.DateDue)*@
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Tittle)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.UserID)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DateCreation)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DateDue)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.TaskId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.TaskId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.TaskId })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tittle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDue)
+            </td>
+            <td class="grid-command-box centralizado">
+                @Html.ActionLink("Editar", "Edit", new { id = item.TaskId }) |
+                @Html.ActionLink("Detalles", "Details", new { id = item.TaskId }) |
+                @Html.ActionLink("Borrar", "Delete", new { id = item.TaskId })
+            </td>
+        </tr>
+    }
 
 </table>

@@ -1,43 +1,43 @@
 ﻿@model MVCWebApp.Models.UserTasks.UserTasks
 
 @{
-    ViewBag.Title = "Details";
+    //ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
+<h2>Tareas</h2>
 
 <div>
-    <h4>UserTasks</h4>
+    @*<h4>UserTasks</h4>*@
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Tittle)
+            <label>Nombre</label>
+            @*@Html.DisplayNameFor(model => model.Tittle)*@
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Tittle)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.UserID)
+            <label>ID Usuario</label>
+            @*@Html.DisplayNameFor(model => model.UserID)*@
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.UserID)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.DateCreation)
+            <label>Fecha de creación</label>
+            @*@Html.DisplayNameFor(model => model.DateCreation)*@
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.DateCreation)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.DateDue)
+            <label>Fecha de vencimiento</label>
+            @*@Html.DisplayNameFor(model => model.DateDue)*@
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.DateDue)
         </dd>
@@ -45,6 +45,9 @@
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.TaskId }) |
-    @Html.ActionLink("Back to List", "Index")
+    @*@Html.ActionLink("Editar", "Edit", null, new { @class = "btn btn-md btn-primary" })*@
+    @Html.ActionLink("Aceptar", "Index", null, new { @class = "btn btn-md btn-primary" })
+
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.TaskId }) |*@
+    @*@Html.ActionLink("Back to List", "Index")*@
 </p>
